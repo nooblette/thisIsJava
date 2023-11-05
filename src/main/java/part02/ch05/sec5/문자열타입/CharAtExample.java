@@ -1,4 +1,4 @@
-package part02.ch05;
+package part02.ch05.sec5.문자열타입;
 
 public class CharAtExample {
 	public static void main(String[] args) {
