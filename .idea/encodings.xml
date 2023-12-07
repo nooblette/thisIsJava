@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/ch15/sec04/Map컬렉션" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/part03/ch17/sec04/*/*.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/part03/ch17/sec04/리소스로부터_스트림얻기/*.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../thisIsJava_module_a/thisIsJava_module_a/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../thisIsJava_module_a/thisIsJava_module_a/src/main/resources" charset="UTF-8" />
