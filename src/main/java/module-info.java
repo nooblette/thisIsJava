@@ -3,4 +3,5 @@ module thisIsJava {
 	requires thisIsJava.module.a;
 	requires lombok;
 	requires java.desktop;
+	requires org.json;
 }
