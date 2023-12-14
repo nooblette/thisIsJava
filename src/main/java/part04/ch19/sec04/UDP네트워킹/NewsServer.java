@@ -28,7 +28,7 @@ public class NewsServer {
 		}
 		scanner.close();
 
-		// TCP 서버 종료
+		// UDP 서버 종료
 		stopServer();
 	}
 
